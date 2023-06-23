@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300;400;600;700&display=swap');
+*{
+    font-family: 'Titillium Web', sans-serif;
+}
+.underline {
+    border-bottom: 5px solid #000;
+    width: 7%;
+    margin: 20px auto;
+}
+header{
+    background-color: #87509c;
+}
+#service {
+    background-color: #17c2a4;
+}
+#team{
+    background-color: #e7f1f8;
+}
